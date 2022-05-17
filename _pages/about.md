@@ -2,23 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Fellow, SDPS Section, Department of Computer Science, University of Copenhagen
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 879.01.1.15A</p>
+    <p>Sigurdsgade 41</p>
+    <p>2200 Copenhagen, Denmark</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have a BA in Media and Culture Studies, a MSc in Software Design, specialising in algorithms and data science from the IT University in Copenhagen, Denmark, and an MA in Intercultural Communication and Gender Studies from the European University in Frankfurt/Oder, Germany. 
+Additionally, I have several years of diverse work experience: I worked as a diversity analyst at CERN, Switzerland for two years. During my three years at Ørsted, a wind energy company in Denmark, I worked as a data scientist and model engineer, building, deploying and maintaining machine learning models to predict failures in large machinery. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My PhD project is part of the interdisciplinary and international research project [NordASIL](https://asylumdata.ku.dk/research/nordic-refugee-determination) spanning law, computer science and medicine. The project is looking to answer two questions: What factors shape the production of national asylum decisions in Denmark, Sweden and Norway? and Why do asylum outcomes across similar cases differ so much from one another?
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Drawing on the unique access to large datasets of asylum case summaries, my interest lies with exploring new and interdisciplinary methods to draw meaning from numerical and text data and integrating human values into data science practice. Using techniques from participatory design, statistics and natural language processing, my PhD project is about grounded sensemaking of data in asylum decision-making in the Nordic countries. My aim is therefore to drive the agenda of human-centered data science and machine learning, as well as participatory NLP.
+
+In my free time, I like to do strength training, yoga and I occasionally run. I also enjoy to meditate, knit and going to art exhibitions. I passionately teach introductions to Python and data analysis, which I used to do for [ReDI School of Digital Integration](https://www.redi-school.org/redi-school-copenhagen/) in 2021 and informally for a group of Ukrainian refugees in 2022.
+ 
+I'm also a certified NLP (neuro-linguistic programming) practitioner, trained by the amazing [Tristan Soames](https://tristansoames.com/).
+
