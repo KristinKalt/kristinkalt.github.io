@@ -27,4 +27,3 @@ Drawing on the unique access to large datasets of asylum case summaries, my inte
 In my free time, I like to do strength training, yoga and I occasionally run. I also enjoy to meditate, knit and going to art exhibitions. I passionately teach introductions to Python and data analysis, which I used to do for [ReDI School of Digital Integration](https://www.redi-school.org/redi-school-copenhagen/) in 2021 and informally for a group of Ukrainian refugees in 2022.
  
 I'm also a certified NLP (neuro-linguistic programming) practitioner, trained by the amazing [Tristan Soames](https://tristansoames.com/).
-
