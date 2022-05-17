@@ -6,7 +6,7 @@ subtitle: PhD Fellow, SDPS Section, Department of Computer Science, University o
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: >
     <p>Office 879.01.1.15A</p>
     <p>Sigurdsgade 41</p>
