@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Fellow, SDPS Section, Department of Computer Science, University of Copenhagen
+subtitle: PhD Fellow, Department of Computer Science, University of Copenhagen
 
 profile:
   align: right
