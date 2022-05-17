@@ -82,6 +82,11 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              <!-- CV -->
+              <li class="nav-item {% if page.title == 'cv' %}active{% endif %}">
+                <a class="nav-link" target="_blank" href="{{ '/assets/pdf/academic_cv.pdf' | relative_url }}">cv</a>
+                    </li>
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
