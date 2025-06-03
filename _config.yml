@@ -7,17 +7,17 @@ first_name: Kistin
 middle_name: E.
 last_name: Kaltenhäuser
 #contact_note: >
- # You can even add a little note about which of these is the best way to reach you.
+# You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Fellow | Data Scientist | Public Speaker
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords:  # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🇩🇪 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: http://kristinkalt.github.io/ # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -91,11 +91,11 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # Pagination
 #pagination:
- # enabled: true
+# enabled: true
 
 #related_blog_posts:
- # enabled: true
- # max_related: 5
+# enabled: true
+# max_related: 5
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -111,7 +111,6 @@ giscus:
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
-
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -154,7 +153,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages",]
+include: ["_pages"]
 exclude:
   - bin/
   - CONTRIBUTING.md
