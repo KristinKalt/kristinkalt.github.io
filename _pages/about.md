@@ -33,6 +33,6 @@ Overall, my goal is to help build technologies that are more inclusive, particip
 
 I am a public speaker on topics such as my research and diversity and inclusion.
 
-In my free time, I like to do weight lifting, yoga and the occasional run. I also enjoy to meditate, to knit and immersing myself in art exhibitions. I passionately teach Python and data analysis to beginners, which I used to do for [ReDI School of Digital Integration](https://www.redi-school.org/redi-school-copenhagen/) in 2021 and Ukrainian refugees in 2022.
+In my free time, I like to do weight lifting, yoga and the occasional run. I also enjoy to meditate, to knit and immersing myself in art exhibitions. I passionately teach Python and data analysis to beginners, which I used to do for [ReDI School of Digital Integration](https://www.redi-school.org/redi-school-denmark) in 2021 and Ukrainian refugees in 2022.
  
 I am also a certified NLP (neuro-linguistic programming) practitioner, trained by the amazing [Tristan Soames](https://tristansoames.com/).
