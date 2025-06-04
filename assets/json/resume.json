@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Kristin Kaltenhäuser",
-    "label": "Scientist",
     "image": "",
     "email": "krka@di.ku.dk",
     "url": "https://kristinkalt.github.io/",
@@ -41,19 +40,19 @@
       "startDate": "2014-09",
       "endDate": "2016-08",
       "location": "Geneva, Switzerland",
-      "summary": "Policy analysis, event organization, inclusive material design"
+      "summary": "Diversity policy analysis and implementation, event organization, inclusive material design"
     }
   ],
  
   "education": [
     {
       "institution": "University of California, Berkeley",
-      "area": "Science, Technology, Medicine and Society",
-      "studyType": "Research Stay abroad",
+      "area": "Center for Science, Technology, Medicine and Society (CSTMS)",
+      "studyType": "Research stay abroad",
       "startDate": "2024-04",
       "endDate": "2024-06",
       "location": "Berkeley, California, USA",
-      "summary": "Research collaboration with Ass. Prof Morgan Ames and participation in STS working group"
+      "summary": "Research collaboration with Ass. Prof. Morgan Ames and participation in STS working group"
     },
     {
       "institution": "IT University of Copenhagen",
